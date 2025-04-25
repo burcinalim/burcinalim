@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Burcin 👋
 
-<!--
-**burcinalim/burcinalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an analytical and detail-oriented professional with experience in **Human Resources** and **Product Management**, now expanding my skills across various areas including technology and data. I love learning new things, adapting to new environments, and solving real-world problems through collaboration and creativity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I’ve Done So Far
+
+- 🧠 Worked on people-focused solutions in **HR**
+- 🚀 Shaped product features and workflows as a **Product Manager**
+- 📊 Continuously building skills in tools like **Python,PowerBI,SQL**, and more
+
+
+## 🤝 Let’s Connect!
+
+You can find me on:  
+[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/burcinalim1/))
+
+---
+
+Thanks for stopping by! 🌱
