@@ -14,7 +14,7 @@ I'm an analytical and detail-oriented professional with experience in **Human Re
 ## 🤝 Let’s Connect!
 
 You can find me on:  
-[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/burcinalim1/))
+[LinkedIn](https://www.linkedin.com/in/burcinalim1/)
 
 ---
 
