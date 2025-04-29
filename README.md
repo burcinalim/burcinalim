@@ -8,7 +8,7 @@ I'm an analytical and detail-oriented professional with experience in **Human Re
 
 - 🧠 Worked on people-focused solutions in **HR**
 - 🚀 Shaped product features and workflows as a **Product Manager**
-- 📊 Continuously building skills in tools like **Python,PowerBI,SQL**, and more
+- 📊 Continuously building skills in tools like **Python,PowerBI,PostgreSQL** for data analysis
 
 
 ## 🤝 Let’s Connect!
